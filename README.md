@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymeric</h1>
-<h3 align="center">Blockchain & Front-End Developer, ready to play !</h3>
+<h3 align="center">Front-End & Blockchain Developer, ready to play !</h3>
+<img align="right" alt="Ethereum" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN2MXI1dDJleGVsdHpnYzZ3cGc5dTlhaDVjeGNxbXl4dnMzMDNiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t9YIAcJSTPxrMDe626/giphy.gif">
 
 - 🔭 I’m currently working on **A Betting Dapp**
 
